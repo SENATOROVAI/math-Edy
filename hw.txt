@@ -1,0 +1,126 @@
+﻿Если что - пиши в чат, всегда поможем, добро пожаловать в команду SENATOROV TEAM!
+
+выполненные задания переносим в Архив(внизу файла)
+==================================
+Git:
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team         
+2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
+3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
+4)https://t.me/c/1937296927/3602/5714 (начать делать)
+==================================
+Python:
+План по секции:
+1 пункт лучше применяем начиная с циклов или функций, чтобы понимать как работает интерпритатор
+1.1 пункт, если не знаешь статическую типизацию(mypy)
+2,3 пункты изучаем в параллель
+4 пункт начинаем изучать только после прохождения всех предыдущих
+
+1)Обязательно пользуйся визуализатором https://pythontutor.com/, чтобы понимать как работает интерпритатор
+1.1)Статическая типизация(mypy) дока по mypy - https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#variables 
+1.2)(опционально!!!)если доки по Mypy мало читай это https://t.me/c/1937296927/1/2159
+2*)https://t.me/c/1937296927/1/16676 прочитать(ВНИМАТЕЛЬНО) и переписать в юпитер(Python/lesson_pep8.ipynb) сначала 85-95стр,ПОТОМ ВСЁ ОСТАЛЬНОЕ c 1 по 286
+3)https://t.me/c/1937296927/1/19631(СКИПАЕМ 271-282стр), пишем код из книги в файл Python/easy_python.ipynb, 
+в конце каждой главы ОБЯЗАТЕЛЬНО отвечаем на вопросы, 
+ответы на вопросы вставляем в маркдаун, 
+туда же вставляем картинки, их можно рисовать в пейнте
+когда дойдёте до стр 227-245, обязательно сначала, 
+делаем это https://t.me/c/1937296927/1/12260 код пишем сюда Python/oop.ipynb (дойти до создания объектов включительно),
+(опционально) - https://t.me/c/1937296927/1/14973
+4)https://stepik.org/course/63085/promo
+=================================
+Аналитика данных на pandas:
+https://edu.sirius.online/#/course/1750 (проходи если открыт)
+1) https://stepik.org/course/74457/syllabus
+2) https://stepik.org/course/3356/syllabus начать с секции (6. Неделя 2 - Векторы, Матрицы)
+3) https://www.kaggle.com/learn/pandas
+4) https://www.freecodecamp.org/learn/data-analysis-with-python/
+5) https://stepik.org/course/4852/syllabus (только введение)
+ПРАКТИКА В PANDAS: https://leetcode.com/problemset/pandas/?sorting=W3sic29ydE9yZGVyIjoiQVNDRU5ESU5HIiwib3JkZXJCeSI6IkRJRkZJQ1VMVFkifV0%3D
+
+1 задача в день 
+https://leetcode.com/studyplan/introduction-to-pandas/ 
+когда закончишь начни 
+https://leetcode.com/studyplan/30-days-of-pandas/
+==================================
+Data Cleaning(Regex):
+1)https://leetcode.com/tag/string-matching/ выполнить изи и попробуй мидл
+2) получить сертификат:  https://stepik.org/course/49442
+2.1) https://www.datacamp.com/tutorial/data-preparation-with-pandas
+2.2) https://www.w3schools.com/python/pandas/pandas_cleaning_wrong_data.asp
+3)https://machinelearningtutorials.org/tutorial-using-pandas-with-regular-expressions-regex/ повторить в ноутбуке
+4)https://kanoki.org/2019/11/12/how-to-use-regex-in-pandas/ повторить в ноутбуке
+5)https://www.geeksforgeeks.org/replace-values-in-pandas-dataframe-using-regex/ повторить в ноутбуке
+6)https://www.kaggle.com/learn/data-cleaning 
+7)https://www.dataquest.io/blog/regular-expressions-data-scientists/ повторить в ноутбуке
+==================================
+Data Visual:
+1) https://www.kaggle.com/learn/data-visualization
+2) https://www.kaggle.com/code/prashant111/matplotlib-tutorial-for-beginners
+3) https://www.kaggle.com/code/kanncaa1/seaborn-tutorial-for-beginners
+4) https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners (опционально)
+5) https://t.me/c/1937296927/832/14284 (rus) прочитать 
+6) Tableau https://stepik.org/course/56280/syllabus
+==================================
+SQL:
+1) https://karpov.courses/simulator-sql
+2)https://sql-ex.ru/register.php?Lang=0
+2.1 https://sql-ex.ru/learn_exercises.php
+(ответы http://sql-tutorial.ru/ru/book_exercise_1.html
+схема БД http://sql-tutorial.ru/ru/book_computers_database.html)
+
+3) https://www.kaggle.com/learn/intro-to-sql
+4) https://www.kaggle.com/learn/advanced-sql
+5) https://stepik.org/course/63054/syllabus
+6) https://stepik.org/course/3203/syllabus
+7) https://sql-academy.org/ru/trainer/tasks/1
+==================================                                                                        
+Практика:
+1) /c/1937296927/ прочитать
+1.1) https://t.me/c/1937296927/832/13290 прочитать
+1.3) https://education.yandex.ru/handbook/data-analysis
+2) https://t.me/c/1937296927/832/16118, берём отсюда ссылки на kaggle и проводим EDA анализ.
+3)contecst по аналитике(опционально) 
+https://contest.yandex.ru/contest/28416/enter
+4)A/B(справочник):
+https://education.yandex.ru/journal/kak-provesti-a-b-testirovanie-6-prostykh-shagov
+==================================
+Algorithms(опционально):
+1)https://yandex.ru/yaintern/algorithm-training
+2)https://habr.com/ru/companies/yandex/articles/449890/
+
+Алгоритмы (выполнить):
+1)https://codeforces.com/problemset/problem/4/A 
+2)https://leetcode.com/problems/palindrome-number/
+3)переписать в тетрадь
+https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 70
+
+1 задача в день(всего 30 задач): 
+https://codeforces.com/problemset?order=BY_RATING_ASC&tags=math
+
+копируешь с каждой странице по 1 решению:
+первая страница https://codeforces.com/problemset/status/4/problem/A 
+середина https://codeforces.com/problemset/status/4/problem/A/page/600?order=BY_PROGRAM_LENGTH_ASC
+последняя https://codeforces.com/problemset/status/4/problem/A/page/1356?order=BY_PROGRAM_LENGTH_ASC
+ 
+и вставляешь себе в алгоритмы Algorithms\codeforces.ipynb, потом проводишь разбор кода 
+и так дальше по другим задачам.
+
+Computer Science:
+1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
+2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc 
+==================================
+Math(school):
+1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
+2) экспресс курс по школьной математике, 2 лучших учебника \Math\school_theory
+==================================
+
+Понимать и знать итоговые темы отсюда \Math\calculus\theory\Экзаменационный контроль
+==================================
+==================================
+Архив:
+
+Python:
+
+
+Если что - пиши в чат, всегда поможем, добро пожаловать в команду SENATOROV TEAM!
+
