@@ -8,6 +8,11 @@ Git:
 3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
 4)https://t.me/c/1937296927/3602/5714 (начать делать)
 ==================================
+Math(school):
+1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
+2) экспресс курс по школьной математике, 2 лучших учебника \Math\school_theory
+==================================
+
 Python:
 План по секции:
 1 пункт лучше применяем начиная с циклов или функций, чтобы понимать как работает интерпритатор
@@ -27,6 +32,7 @@ Python:
 делаем это https://t.me/c/1937296927/1/12260 код пишем сюда Python/oop.ipynb (дойти до создания объектов включительно),
 (опционально) - https://t.me/c/1937296927/1/14973
 4)https://stepik.org/course/63085/promo
+5)https://t.me/c/1937296927/1/5742 (переписать код в Python/sets_py.ipynb)
 =================================
 Аналитика данных на pandas:
 https://edu.sirius.online/#/course/1750 (проходи если открыт)
@@ -109,10 +115,7 @@ Computer Science:
 1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
 2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc 
 ==================================
-Math(school):
-1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
-2) экспресс курс по школьной математике, 2 лучших учебника \Math\school_theory
-==================================
+
 
 Понимать и знать итоговые темы отсюда \Math\calculus\theory\Экзаменационный контроль
 ==================================
